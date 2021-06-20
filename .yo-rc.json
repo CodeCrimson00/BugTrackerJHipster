@@ -42,7 +42,8 @@
     "devServerPort": 4200,
     "clientPackageManager": "npm",
     "clientThemeVariant": "",
-    "languages": ["en"],
-    "cypressCoverage": false
+    "languages": ["en", "fr"],
+    "cypressCoverage": false,
+    "entities": []
   }
 }
